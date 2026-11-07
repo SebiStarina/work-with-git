@@ -8,5 +8,6 @@ int main ()
         std::cout << "Hello!!";
     }
     std::cout << "This is not the end";
+    std::cout << "The end of the program!";
     return 0;
 }
