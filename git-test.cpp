@@ -7,6 +7,6 @@ int main ()
     {
         std::cout << "Hello!!";
     }
-    std::cout << "The end";
+    std::cout << "The end of the program!";
     return 0;
 }
